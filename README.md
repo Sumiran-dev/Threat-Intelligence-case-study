@@ -1,2 +1,3 @@
 # Threat Intelligence Case Study – SOC Investigation Walkthrough
-End-to-end threat intelligence investigation using real-world IOCs, OSINT tools, Gnumeric, Linux CLI, Text Editor and malware sandboxes to analyze phishing, Cobalt Strike beacons, Discord abuse, and Log4Shell exploitation—backed by screenshots and MITRE ATT&amp;CK mapping.
+This investigation was part of a simulated SOC environment, where I stepped into the role of a cybersecurity analyst responding to alerts from multiple sources. Each task reflected a real-world scenario, requiring the use of open-source intelligence (OSINT), Gnumeric, Text Editor, threat feeds, sandbox analysis, and CSV parsing to uncover hidden IOCs, malware delivery methods, and attacker infrastructure.
+This wasn’t just about finding answers — it was about thinking like an analyst under pressure, asking why something happened, not just what.
