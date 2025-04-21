@@ -1,3 +1,5 @@
 # Threat Intelligence Case Study – SOC Investigation Walkthrough
 This investigation was part of a simulated SOC environment, where I stepped into the role of a cybersecurity analyst responding to alerts from multiple sources. Each task reflected a real-world scenario, requiring the use of open-source intelligence (OSINT), Gnumeric, Text Editor, threat feeds, sandbox analysis, and CSV parsing to uncover hidden IOCs, malware delivery methods, and attacker infrastructure.
 This wasn’t just about finding answers — it was about thinking like an analyst under pressure, asking why something happened, not just what.
+![image](https://github.com/user-attachments/assets/bfd7bc40-62d4-4381-9bc0-f6d3567d43e6)
+
